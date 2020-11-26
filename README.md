@@ -1,11 +1,17 @@
 # Homework-20
 
 Инициализируем гит репозиторий - git init;
+
 Создаем файл index.html;
+
 Изменяем статус файла чтобы гит его трекал - git add index.html;
+
 Делаем коммит с сообщением "initial commit" - git commit -m "initial commit";
+
 Добавляем remote repository gitthub - git remote add origin https://github.com/Dmitriy2020-altair/Homework-20.git;
+
 Делаем пуш в удаленный репозиторий - git push;
+
 Создаем файл style.css и добавляем его в предыдущий коммит
 
 1) git add . чтобы затрекать все файлы 
